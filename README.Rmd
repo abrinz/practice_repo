@@ -4,6 +4,7 @@ output:
   html_document: <h1>README: Annie Brinza Git Practice </h1>
   11/28/2018 8:21 am
   Made a change at 8:36
+  Made another change at 8:37
 
 ---
 
